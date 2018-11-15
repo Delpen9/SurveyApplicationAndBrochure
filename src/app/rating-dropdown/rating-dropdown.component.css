@@ -1,0 +1,83 @@
+.stickyNav {
+  height: 10vw;
+  font-size: 4vw;
+  position: fixed;
+  top: 0;
+  background: rgb(255, 255, 255);
+  z-index: 999;
+}
+
+.stickyCarousel {
+  position: fixed;
+  top: 10vw;
+  background: rgb(255, 255, 255);
+  z-index: 4;
+}
+
+.wrapper {
+  overflow: hidden;
+  background-color:  rgb(255, 255, 255);
+}
+
+.expandButton {
+  height: 5vw;
+  font-size: 4vw;
+  background-color: rgb(160, 160, 255);
+  border-radius: 0px;
+  width:100%;
+  display: table;
+  z-index: 5;
+}
+
+.innerBox {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.standardBoxShadow {
+  box-shadow: 5px 5px 15px rgb(0, 0, 0, 0.2);
+  z-index: 5;
+}
+
+.backgroundShow {
+  box-shadow: 5px 5px 15px rgb(0, 0, 0, 0.2);
+  background-color: rgb(255, 255, 255);
+  z-index: 5; 
+}
+
+.noShowContentZ-Index {
+  z-index: 2;
+}
+
+.experienceBox {
+  min-height: 7vw;
+  font-size: 4vw;
+  background-color: rgb(255, 255, 255);
+  z-index: 5;
+}
+
+.icon-class-1 {
+  position: relative;
+  bottom: 1vw;
+}
+
+.icon-class-2 {
+  position: relative;
+  bottom: 1.5vw;
+}
+
+.icon-class-3 {
+  position: relative;
+  bottom: 2vw;
+}
+
+.icon-class-4 {
+  position: relative;
+  bottom: 2.25vw;
+}
+
+.icon-class-5 {
+  position: relative;
+  bottom: 2.7vw;
+}
