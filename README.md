@@ -8,7 +8,7 @@ Disclaimer: Remove animations to prevent console errors.
 Contained in this Git Repository is the ./src file of my Survey website using the Angular 6 application.
 
 1. To run the repository, have Angular 6+ installed on your computer.
-2. Create a generic project: 
+2. Create a generic project: <br />
    $ ng new projectName <br />
 3. Replace the default ./src file with the one contained in this repository.
 4. All dependencies are linked in the index.html file.
